@@ -1,0 +1,1 @@
+This file is for learning how to use and get used to the use of EMACS.
